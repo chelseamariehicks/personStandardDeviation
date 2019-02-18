@@ -1,8 +1,8 @@
 /************************************************************************
-** Author:			Chelsea Hicks
-** Date:			10/31/2018
+** Author:		Chelsea Hicks
+** Date:		10/31/2018
 ** Description:		This is the Person class function implementation
-**					file using the Person.hpp interface.
+**			file using the Person.hpp interface.
 ************************************************************************/
 
 #include "Person.hpp"
