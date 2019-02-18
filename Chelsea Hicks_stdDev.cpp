@@ -1,9 +1,9 @@
 /***********************************************************************
-** Author:			Chelsea Hicks
-** Date:			10/31/2018
+** Author:		Chelsea Hicks
+** Date:		10/31/2018
 ** Description:		This program includes a function that takes in an
-**					array of Person objects and returns the standard
-**					deviation of all the ages.
+**			array of Person objects and returns the standard
+**			deviation of all the ages.
 ***********************************************************************/
 
 #include "Person.hpp"
